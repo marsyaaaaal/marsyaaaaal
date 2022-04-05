@@ -1,6 +1,6 @@
 
 <img align="center" alt="coding" width="1280" height="600" src="https://cdn.dribbble.com/users/1299339/screenshots/2972130/hello_world.gif">
-<h1 align="center">Hi 👋, I'm Marcial C. Abasola Jr. Jr</h1>
+<h1 align="center">Hi 👋, I'm Marcial C. Abasola Jr.</h1>
 <h3 align="center">A dedicated developer from Philippines</h3>
 <img align="right" alt="coding" width="400" src="https://c.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marsyaaaaal&label=Profile%20views&color=0e75b6&style=flat" alt="marsyaaaaal" /> </p>
