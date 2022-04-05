@@ -15,9 +15,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/marcial abasola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcial abasola" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/marcial-abasola-a9498b210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcial abasola" height="30" width="40" /></a>
 <a href="https://kaggle.com/marcialabasola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="marcialabasola" height="30" width="40" /></a>
-<a href="https://fb.com/marcial abasola" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marcial abasola" height="30" width="40" /></a>
+<a href="https://fb.com/profile.php?id=100002844207547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="marcial abasola" height="30" width="40" /></a>
 <a href="https://instagram.com/marshaaaaal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="marshaaaaal" height="30" width="40" /></a>
 </p>
 
