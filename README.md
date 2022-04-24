@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Thesis](https://github.com/lordsiinbal/Thesis101)
+- 🔭 I’m currently working on [Portfolio](https://github.com/marsyaaaaal/portfolio)
 
 - 🌱 I’m currently learning **Data Science, Machine Learning, Different Web Stacks**
 
